@@ -1,5 +1,5 @@
 package ch.wiss.m326;
 
-public class Kassenterminal extends Eingabeterminal {
+public abstract class Kassenterminal extends Eingabeterminal {
 
 }

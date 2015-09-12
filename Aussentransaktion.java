@@ -1,6 +1,6 @@
 package ch.wiss.m326;
 
-public class Aussentransaktion extends Transaktion {
+public abstract class Aussentransaktion extends Transaktion {
 	
 
 }
