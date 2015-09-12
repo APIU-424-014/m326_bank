@@ -1,4 +1,4 @@
-package ch.wiss.m326;
+package m326;
 
 public class Eingabeterminal {
 	
